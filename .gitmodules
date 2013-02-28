@@ -1,0 +1,6 @@
+[submodule "stlx-amd64"]
+	path = stlx-amd64
+	url = git@github.com:stqism/stlx-amd64.git
+[submodule "stlx-i386"]
+	path = stlx-i386
+	url = git@github.com:stqism/stlx-i386.git

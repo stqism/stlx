@@ -1,0 +1,5 @@
+The root of the stlx project, a debian based distro optimized for gaming, and only gaming.
+Stlx boots directly in to steams big picture mode, running under openbox. 
+The tiny nature of the distro makes it both fast, and small in size.
+
+Future releases will feature scripts to set up proprietary drivers, wayland support, and anything else that optimizes the gaming experience on linux.
